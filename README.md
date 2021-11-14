@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahbaaz Nabi
 - 👀 I’m interested in data analyst
-- 🌱 I’m currently learning Google data analyst
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data analyst and data Scientist.
 
 <!---
